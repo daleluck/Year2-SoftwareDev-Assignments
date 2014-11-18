@@ -1,0 +1,17 @@
+﻿Build started 08/05/2014 00:27:42.
+     1>Project "C:\Users\Dale\Dropbox\University Work\Year 2\Assessments\Advanced Software Development\Assignment 2\ASD_Assignment2\ASD_Assignment2\ASD_Assignment2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\ASD_Assignment2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         ASD_Assignment2.vcxproj -> C:\Users\Dale\Dropbox\University Work\Year 2\Assessments\Advanced Software Development\Assignment 2\ASD_Assignment2\Debug\ASD_Assignment2.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\ASD_Assignment2.unsuccessfulbuild".
+         Touching "Debug\ASD_Assignment2.lastbuildstate".
+     1>Done Building Project "C:\Users\Dale\Dropbox\University Work\Year 2\Assessments\Advanced Software Development\Assignment 2\ASD_Assignment2\ASD_Assignment2\ASD_Assignment2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.26
